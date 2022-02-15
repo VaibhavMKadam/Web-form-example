@@ -6,5 +6,6 @@
 2)It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 3)It is low level (raw) form of data and is also human readable.
 3)It helps developers in faster coding, in-turn reduces development cost.
+4) Serverless support
 # Release history
 
